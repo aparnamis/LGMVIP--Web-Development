@@ -114,7 +114,7 @@ hr {
   border-top-style: solid;
   border-color: rgb(165, 165, 165);
   border-width: 2px;
-  width: 80%;
+  width: 100%;
   margin: 50px auto 80px auto;
 }
 
@@ -134,7 +134,7 @@ header{
 
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  background-color: lightsalmon;
+  background-color: burlywood;
 }
 
 .container {
@@ -298,7 +298,7 @@ width: 30%;
 }
 
 .newsletter {
-  background: url("bridge.jpg");
+  background: url("images/bridge.jpg");
   margin-bottom: 72px; }
 
 .newsletter__caption {
